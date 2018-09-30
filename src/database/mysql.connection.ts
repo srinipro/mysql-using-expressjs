@@ -8,7 +8,7 @@ export class MySql {
             connectionLimit: 10,
             host: 'localhost',
             user: 'root',
-            password: 'Password@123',
+            password: '******',
             database: 'demo'
         });
        // console.log('MySqlConnection Constructor called');
